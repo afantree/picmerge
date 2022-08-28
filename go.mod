@@ -1,4 +1,4 @@
-module picmerge
+module github.com/afantree/picmerge
 
 go 1.18
 
